@@ -906,19 +906,3 @@ wt:ugly_calligraphy a skos:Concept ;
 			skos:definition "Refers to a contemporary calligraphic style that deliberately challenges traditional aesthetic norms by embracing rough, distorted, and exaggerated forms. It often features irregular stroke thickness, unconventional character structures, and an expressive, almost rebellious quality. Rather than adhering to classical notions of beauty, choushu explores raw emotion, spontaneity, and anti-traditional aesthetics, often overlapping with avant-garde art movements and ignorant style graffiti. Choushu  traces its origins to sushu 俗书 (popular or vernacular calligraphy) and defines calligraphic works that appear disharmonious, asymmetric, and inconsistent in form."@en ;
 			dcterms:source "Liu, Zongchao. 2016. “‘Choushu’ zhong de ‘Zhen’ he ‘Shan’ 丑书’中的‘真’与 ‘善’ (The ‘Real’ and the ‘Good’ in ‘Ugly Calligraphy’).” Renmin Taolun  36: 139." , "Vermeeren, Laura. 2020. Inquisitive Ink. A study of contemporary practice of calligraphy in China. M. Phil. Dissertation, University of Amsterdam, 137." . 
 
-
-#################################################################
-#    Performing arts types
-#################################################################
-
-#################################################################
-#    Visual arts types
-#################################################################
-
-#################################################################
-#    Calligraphic training types
-#################################################################
-
-#################################################################
-#    Character directionalites
-#################################################################
