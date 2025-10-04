@@ -9,7 +9,7 @@ It is developed and maintained within the **WenDAng - WRITE Digital Archive proj
 📅 **Latest version:** v1.0.0 (2025-04-01)  
 📘 **Full changelog:** [View CHANGELOG.md →](CHANGELOG.md)
 
----
+--
 
 ### Access
 
