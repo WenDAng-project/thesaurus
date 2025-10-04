@@ -44,7 +44,8 @@ Semantic relations, external mappings and bibliographic references are recommend
 ---
 
 ### Contact
-Katarina Lučić - PhD candidate, Department of Interpreting and Translation, University of Bologna (Italy)  
+Katarina Lučić - PhD candidate  
+Department of Interpreting and Translation, University of Bologna (Italy)    
 📧 katarina.lucic2@unibo.it
 
 ---
