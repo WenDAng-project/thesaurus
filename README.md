@@ -9,7 +9,7 @@ It is developed and maintained within the **WenDAng - WRITE Digital Archive proj
 📅 **Latest version:** v1.0.0 (2025-04-01)  
 📘 **Full changelog:** [View CHANGELOG.md →](CHANGELOG.md)
 
---
+---
 
 ### Access
 
@@ -31,20 +31,20 @@ The WRITE Thesaurus can be accessed through:
 
 ### Structure
 
-The WRITE thesaurus is modelled using SKOS. 
+The WRITE thesaurus is modelled using **SKOS**.  
 Each term is a `skos:Concept`, linked to a dedicated collection through `skos:member`, and to the thesaurus via `skos:inScheme`.
 
 Each concept must include at least:  
 - a `skos:prefLabel`  
 - one or more `skos:altLabel`(s)  
-- a `skos:definition`  ù
+- a `skos:definition` 
 
 Semantic relations, external mappings and bibliographic references are recommended, but not mandatory.
 
 ---
 
 ### Contact
-Katarina Lučić - PhD candidate, Department of Interpreting and Translation, University of Bologna (Italy)
+Katarina Lučić - PhD candidate, Department of Interpreting and Translation, University of Bologna (Italy)  
 📧 katarina.lucic2@unibo.it
 
 ---
