@@ -1,7 +1,8 @@
 ### WRITE thesaurus
 
-The **WRITE Thesaurus** is a carefully curated resource dedicated to Chinese cultural heritage, with a particular focus on contemporary arts and calligraphy. Developed by domain experts as part of the WenDAng project, this thesaurus, modelled in SKOS, provides a structured vocabulary that captures the evolving landscape of Chinese (contemporary) calligraphy and its role in redefining cultural identity.
+The **WRITE Thesaurus** is a carefully curated resource dedicated to Chinese cultural heritage, with a particular focus on contemporary arts and calligraphy. Developed by domain experts as part of the WenDAng project, this thesaurus, modelled in SKOS, provides a structured vocabulary that captures the evolving landscape of Chinese (contemporary) calligraphy and its role in redefining cultural identity.  
 Designed as both a research tool for WRITE scholars and a comprehensive reference for a wider audience, the thesaurus categorises key concepts essential to understanding traditional and contemporary Chinese artistic expressions. By offering precise definitions and classifications, it serves as a bridge between traditions and emerging artistic practices in contemporary China.  
+
 It is developed and maintained within the **WenDAng - WRITE Digital Archive project**.
 
 📅 **Latest version:** v1.0.0 (2025-04-01) 
