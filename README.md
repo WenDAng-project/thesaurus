@@ -18,7 +18,7 @@ The WRITE Thesaurus can be accessed through:
 - 🌐 **/DH.arc Vocabularies:** [https://lab.dharc.unibo.it/skosmos/wt/en/](https://lab.dharc.unibo.it/skosmos/wt/en/)  
   *A user-friendly web interface for browsing and searching concepts, implemented using Skosmos.*
 
-- 🧾 **Zenodo:** [https://doi.org/10.5281/zenodo.17243419](https://doi.org/10.5281/zenodo.17243419)  
+- 🧾 **Zenodo:** [https://doi.org/10.5281/zenodo.17243418](https://doi.org/10.5281/zenodo.17243418)  
   *Archived version of the thesaurus with DOI and metadata for citation.*
 
 - 🔗 **w3id Persistent URI:** [https://w3id.org/write/thesaurus](https://w3id.org/write/thesaurus)  
