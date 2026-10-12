@@ -9,6 +9,12 @@ This document ensures that all modifications are traceable and citable across re
 
 ---
 
+## [v1.1.0] – 2025-10-12
+
+New concepts were added to existing thematic collections, precisely _Chinese Concepts_ and _Script Styles_, expanding the conceptual coverage of the thesaurus.
+
+---
+
 ## [v1.0.0] – 2025-04-01
 **Initial release**
 
