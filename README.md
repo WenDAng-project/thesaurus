@@ -6,7 +6,7 @@ Designed as both a research tool for WRITE scholars and a comprehensive referenc
 It is developed and maintained within the **WenDAng - WRITE Digital Archive project**.
 
 
-📅 **Latest version:** v1.0.0 (2025-04-01)  
+📅 **Latest version:** v1.1.0 (2025-10-12)  
 📘 **Full changelog:** [View CHANGELOG.md →](CHANGELOG.md)
 
 ---
